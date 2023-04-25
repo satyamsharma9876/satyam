@@ -11,6 +11,7 @@ function App() {
   <img src={pic}/>
   <h1>Satyam Sharma</h1>
   <p>I am an Engineering Student</p>
+  <p>i am kit doing 2nd semester </p>
   </>
 
  )
